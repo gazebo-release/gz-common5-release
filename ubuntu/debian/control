@@ -59,6 +59,7 @@ Section: libdevel
 Depends: libignition-common5-core-dev (= ${binary:Version}),
          libignition-common5-av-dev (= ${binary:Version}),
          libignition-common5-events-dev (= ${binary:Version}),
+         libignition-common5-geospatial-dev (= ${binary:Version}),
          libignition-common5-graphics-dev (= ${binary:Version}),
          libignition-common5-profiler-dev (= ${binary:Version}),
          ${misc:Depends}
