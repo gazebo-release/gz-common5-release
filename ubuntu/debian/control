@@ -269,8 +269,7 @@ Description: Collection of useful code used by robotics apps - Testing libries
 Package: libignition-common5-testing-dev
 Architecture: any
 Section: libdevel
-Depends: libgdal-dev,
-         libignition-cmake3-dev,
+Depends: libignition-cmake3-dev,
          libignition-utils2-dev,
          libignition-common5-testing (= ${binary:Version}),
          ${misc:Depends}
