@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ignition_common
+Upstream-Name: gz_common
 Upstream-Contact: gazebo-list@gazebosim.org
-Source: https://bitbucket.org/osrf/ignition_common
+Source: https://github.org/gazebosim/gz_common
 
 Files: *
 Copyright: 2013 Open Source Robotics Foundation
