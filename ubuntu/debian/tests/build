@@ -11,6 +11,8 @@ trap "rm -rf $WORKDIR" 0 INT QUIT ABRT PIPE TERM
 cd $WORKDIR
 cat <<EOF > igntest.c
 
+#define SUPPRESS_IGNITION_HEADER_DEPRECATION
+
 #include <iostream>
 #include <ignition/common/Base64.hh>
 
@@ -22,6 +24,9 @@ int main(int argc, char **argv)
 
     return 0;
 }
+
+#undef SUPPRESS_IGNITION_HEADER_DEPRECATION
+
 EOF
 
 g++ -o igntest igntest.c `pkg-config --cflags --libs ignition-common5`
