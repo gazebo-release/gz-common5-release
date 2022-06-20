@@ -1,7 +1,7 @@
-usr/include/ignition/common*/ignition/common/testing.hh
-usr/include/ignition/common*/gz/common/testing.hh
-usr/include/ignition/common*/ignition/common/testing/*
-usr/include/ignition/common*/gz/common/testing/*
-usr/lib/*/cmake/ignition-common[0-99]-testing/*
-usr/lib/*/libignition-common[0-99]-testing.so
-usr/lib/*/pkgconfig/ignition-common[0-99]-testing.pc
+usr/include/+(ignition|gz)/common*/+(ignition|gz)/common/testing.hh
+usr/include/+(ignition|gz)/common*/gz/common/testing.hh
+usr/include/+(ignition|gz)/common*/+(ignition|gz)/common/testing/*
+usr/include/+(ignition|gz)/common*/gz/common/testing/*
+usr/lib/*/cmake/+(ignition|gz)-common[0-99]-testing/*
+usr/lib/*/lib+(ignition|gz)-common[0-99]-testing.so
+usr/lib/*/pkgconfig/+(ignition|gz)-common[0-99]-testing.pc
