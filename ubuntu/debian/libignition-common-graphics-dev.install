@@ -1,7 +1,7 @@
-usr/include/+(ignition|gz)/common*/+(ignition|gz)/common/graphics.hh
-usr/include/+(ignition|gz)/common*/+(ignition|gz)/common/graphics/*
-usr/include/+(ignition|gz)/common*/gz/common/graphics.hh
-usr/include/+(ignition|gz)/common*/gz/common/graphics/*
-usr/lib/*/cmake/+(ignition|gz)-common[0-99]-graphics/*
-usr/lib/*/lib+(ignition|gz)-common[0-99]-graphics.so
-usr/lib/*/pkgconfig/+(ignition|gz)-common[0-99]-graphics.pc
+usr/include/*/common*/*/common/graphics.hh
+usr/include/*/common*/*/common/graphics/*
+usr/include/*/common*/gz/common/graphics.hh
+usr/include/*/common*/gz/common/graphics/*
+usr/lib/*/cmake/*-common[0-99]-graphics/*
+usr/lib/*/lib*-common[0-99]-graphics.so
+usr/lib/*/pkgconfig/*-common[0-99]-graphics.pc
