@@ -1,7 +1,5 @@
 usr/include/*/common*/*/common/av.hh
 usr/include/*/common*/*/common/av/*
-usr/include/*/common*/gz/common/av.hh
-usr/include/*/common*/gz/common/av/*
 usr/lib/*/cmake/*-common[0-99]-av/*
 usr/lib/*/lib*-common[0-99]-av.so
 usr/lib/*/pkgconfig/*-common[0-99]-av.pc

@@ -1,7 +1,5 @@
 usr/include/*/common*/*/common/testing.hh
-usr/include/*/common*/gz/common/testing.hh
 usr/include/*/common*/*/common/testing/*
-usr/include/*/common*/gz/common/testing/*
 usr/lib/*/cmake/*-common[0-99]-testing/*
 usr/lib/*/lib*-common[0-99]-testing.so
 usr/lib/*/pkgconfig/*-common[0-99]-testing.pc
