@@ -16,7 +16,7 @@ override_dh_install:
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/ignition/common/graphics.hh
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/ignition/common/testing.hh
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/gz/common/av.hh
-	$(RM) debian/libgz-common5-core-dev/usr/include/gz/common*/gz/common/events.hh
+	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/gz/common/events.hh
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/gz/common/geospatial.hh
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/gz/common/graphics.hh
 	$(RM) debian/libgz-common5-core-dev/usr/include/ignition/common*/gz/common/testing.hh
