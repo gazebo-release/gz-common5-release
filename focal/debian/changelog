@@ -1,3 +1,9 @@
+gz-common5 (5.5.1-1~focal) focal; urgency=medium
+
+  * gz-common5 5.5.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 15 Mar 2024 10:27:58 -0500
+
 gz-common5 (5.5.0-1~focal) focal; urgency=medium
 
   * gz-common5 5.5.0-1 release
