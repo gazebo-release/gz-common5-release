@@ -216,6 +216,7 @@ Package: libgz-common5-graphics-dev
 Architecture: any
 Section: libdevel
 Depends: libassimp-dev,
+         libfreeimage-dev,
          libgts-dev,
          libgz-cmake3-dev,
          libgz-common5-core-dev (= ${binary:Version}),
