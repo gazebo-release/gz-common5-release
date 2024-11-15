@@ -1,3 +1,9 @@
+gz-common5 (5.7.0-1~noble) noble; urgency=medium
+
+  * gz-common5 5.7.0-1 release
+
+ -- Michael Carroll <mjcarroll@intrinsic.ai>  Fri, 15 Nov 2024 14:09:10 +0000
+
 gz-common5 (5.6.0-2~noble) noble; urgency=medium
 
   * gz-common5 5.6.0-2 release

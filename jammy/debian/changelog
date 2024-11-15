@@ -1,3 +1,9 @@
+gz-common5 (5.7.0-1~jammy) jammy; urgency=medium
+
+  * gz-common5 5.7.0-1 release
+
+ -- Michael Carroll <mjcarroll@intrinsic.ai>  Fri, 15 Nov 2024 14:09:09 +0000
+
 gz-common5 (5.6.0-1~jammy) jammy; urgency=medium
 
   * gz-common5 5.6.0-1 release
